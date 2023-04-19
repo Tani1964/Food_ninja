@@ -1,0 +1,11 @@
+{
+  "name": "food_ninja",
+  "version": "1.0.0",
+  "description": "Building a Resturant Application with tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ifegbesan Tanitoluwa",
+  "license": "ISC"
+}
